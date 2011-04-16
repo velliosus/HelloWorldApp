@@ -39,20 +39,20 @@
 		49EB588F135A3C4A00588881 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		49EB5891135A3C4A00588881 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		49EB5893135A3C4A00588881 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		49EB5897135A3C4A00588881 /* HelloWorldSample-Info.plist */ = {isa = PBXFileReference; path = "HelloWorldSample-Info.plist"; sourceTree = "<group>"; };
+		49EB5897135A3C4A00588881 /* HelloWorldSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorldSample-Info.plist"; sourceTree = "<group>"; };
 		49EB5899135A3C4A00588881 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		49EB589B135A3C4A00588881 /* HelloWorldSample-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorldSample-Prefix.pch"; sourceTree = "<group>"; };
+		49EB589B135A3C4A00588881 /* HelloWorldSample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorldSample-Prefix.pch"; sourceTree = "<group>"; };
 		49EB589C135A3C4A00588881 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		49EB589E135A3C4A00588881 /* HelloWorldSampleAppDelegate.h */ = {isa = PBXFileReference; path = HelloWorldSampleAppDelegate.h; sourceTree = "<group>"; };
+		49EB589E135A3C4A00588881 /* HelloWorldSampleAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldSampleAppDelegate.h; sourceTree = "<group>"; };
 		49EB589F135A3C4A00588881 /* HelloWorldSampleAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldSampleAppDelegate.m; sourceTree = "<group>"; };
 		49EB58A2135A3C4A00588881 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		49EB58A4135A3C4A00588881 /* HelloWorldSampleViewController.h */ = {isa = PBXFileReference; path = HelloWorldSampleViewController.h; sourceTree = "<group>"; };
+		49EB58A4135A3C4A00588881 /* HelloWorldSampleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldSampleViewController.h; sourceTree = "<group>"; };
 		49EB58A5135A3C4A00588881 /* HelloWorldSampleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldSampleViewController.m; sourceTree = "<group>"; };
 		49EB58A8135A3C4B00588881 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloWorldSampleViewController.xib; sourceTree = "<group>"; };
 		49EB58AF135A3C4B00588881 /* HelloWorldSampleTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloWorldSampleTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		49EB58B7135A3C4B00588881 /* HelloWorldSampleTests-Info.plist */ = {isa = PBXFileReference; path = "HelloWorldSampleTests-Info.plist"; sourceTree = "<group>"; };
+		49EB58B7135A3C4B00588881 /* HelloWorldSampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloWorldSampleTests-Info.plist"; sourceTree = "<group>"; };
 		49EB58B9135A3C4B00588881 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		49EB58BB135A3C4B00588881 /* HelloWorldSampleTests-Prefix.pch */ = {isa = PBXFileReference; path = "HelloWorldSampleTests-Prefix.pch"; sourceTree = "<group>"; };
+		49EB58BB135A3C4B00588881 /* HelloWorldSampleTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorldSampleTests-Prefix.pch"; sourceTree = "<group>"; };
 		49EB58BC135A3C4B00588881 /* HelloWorldSampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldSampleTests.h; sourceTree = "<group>"; };
 		49EB58BE135A3C4B00588881 /* HelloWorldSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldSampleTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
