@@ -22,6 +22,7 @@
 		49EB58BA135A3C4B00588881 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 49EB58B8135A3C4B00588881 /* InfoPlist.strings */; };
 		49EB58BD135A3C4B00588881 /* HelloWorldSampleTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 49EB58BC135A3C4B00588881 /* HelloWorldSampleTests.h */; };
 		49EB58BF135A3C4B00588881 /* HelloWorldSampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 49EB58BE135A3C4B00588881 /* HelloWorldSampleTests.m */; };
+		49EB58C9135A3DB700588881 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 49EB58C8135A3DB700588881 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		49EB58BB135A3C4B00588881 /* HelloWorldSampleTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloWorldSampleTests-Prefix.pch"; sourceTree = "<group>"; };
 		49EB58BC135A3C4B00588881 /* HelloWorldSampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldSampleTests.h; sourceTree = "<group>"; };
 		49EB58BE135A3C4B00588881 /* HelloWorldSampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldSampleTests.m; sourceTree = "<group>"; };
+		49EB58C8135A3DB700588881 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 			isa = PBXGroup;
 			children = (
 				49EB5897135A3C4A00588881 /* HelloWorldSample-Info.plist */,
+				49EB58C8135A3DB700588881 /* icon.png */,
 				49EB5898135A3C4A00588881 /* InfoPlist.strings */,
 				49EB589B135A3C4A00588881 /* HelloWorldSample-Prefix.pch */,
 				49EB589C135A3C4A00588881 /* main.m */,
@@ -228,6 +231,7 @@
 				49EB589A135A3C4A00588881 /* InfoPlist.strings in Resources */,
 				49EB58A3135A3C4A00588881 /* MainWindow.xib in Resources */,
 				49EB58A9135A3C4B00588881 /* HelloWorldSampleViewController.xib in Resources */,
+				49EB58C9135A3DB700588881 /* icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
